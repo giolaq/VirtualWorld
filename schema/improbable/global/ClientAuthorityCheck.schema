@@ -1,5 +1,0 @@
-package improbable.global;
-
-component ClientAuthorityCheck {
-  id = 1002;
-}
